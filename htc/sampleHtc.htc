@@ -1,0 +1,8 @@
+﻿<PUBLIC:COMPONENT>
+  <PUBLIC:ATTACH event="oncontentready" handler="handleReady" />
+  <SCRIPT LANGUAGE="JavaScript">
+      function handleReady() {
+          alert("hi from htc");
+      }
+  </SCRIPT>
+</PUBLIC:COMPONENT>
